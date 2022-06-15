@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: ce0dc59c6c0092342abc96f0ec1e51ed
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 8481483958417013701
+    second: Scissor_Top|Scissor_BottomAction
+  - first:
+      74: -4796860232232591581
+    second: Scissor_Top|Scissor_BottomAction.001
+  - first:
+      74: -4785890801778518661
+    second: Scissor_Top|Scissor_BottomAction.002
+  - first:
+      74: 870526866447162748
+    second: Scissor_Top|Scissor_BottomAction.003
+  - first:
+      74: -6829967069145728524
+    second: Scissor_Top|Scissor_MainAction
+  - first:
+      74: 5477696572307800866
+    second: Scissor_Top|Scissor_MainAction.001
+  - first:
+      74: 3533105371033905778
+    second: Scissor_Top|Scissor_MainAction.002
+  - first:
+      74: 6749022920350399522
+    second: Scissor_Top|Scissor_TopAction
+  - first:
+      74: 2960910180379347430
+    second: Scissor_Top|Scissor_TopAction.001
+  - first:
+      74: 2515216231245917629
+    second: Scissor_Top|Scissor_TopAction.002
+  - first:
+      74: -5961788830507372929
+    second: Scissor_Top|Scissor_TopAction.003
+  - first:
+      74: 8455787842047023547
+    second: Scissor_Bottom|Scissor_BottomAction
+  - first:
+      74: 8514888249538335726
+    second: Scissor_Bottom|Scissor_BottomAction.001
+  - first:
+      74: 2680057709481489454
+    second: Scissor_Bottom|Scissor_BottomAction.002
+  - first:
+      74: 5916563511314465806
+    second: Scissor_Bottom|Scissor_BottomAction.003
+  - first:
+      74: 8425418618991174562
+    second: Scissor_Bottom|Scissor_MainAction
+  - first:
+      74: -2712757398850705838
+    second: Scissor_Bottom|Scissor_MainAction.001
+  - first:
+      74: -3595878861069801597
+    second: Scissor_Bottom|Scissor_MainAction.002
+  - first:
+      74: -3308299109451167415
+    second: Scissor_Bottom|Scissor_TopAction
+  - first:
+      74: -1232614199173690330
+    second: Scissor_Bottom|Scissor_TopAction.001
+  - first:
+      74: 4959053031427041158
+    second: Scissor_Bottom|Scissor_TopAction.002
+  - first:
+      74: 6914575682546025557
+    second: Scissor_Bottom|Scissor_TopAction.003
+  - first:
+      74: 9145041262957445549
+    second: Scissor_Main|Scissor_BottomAction
+  - first:
+      74: -3413273800178111376
+    second: Scissor_Main|Scissor_BottomAction.001
+  - first:
+      74: -2804270927937164536
+    second: Scissor_Main|Scissor_BottomAction.002
+  - first:
+      74: 3167882396462269080
+    second: Scissor_Main|Scissor_BottomAction.003
+  - first:
+      74: 1180856198675472723
+    second: Scissor_Main|Scissor_MainAction
+  - first:
+      74: 2404970173105733127
+    second: Scissor_Main|Scissor_MainAction.001
+  - first:
+      74: 6061861630845666816
+    second: Scissor_Main|Scissor_MainAction.002
+  - first:
+      74: 777510554374332750
+    second: Scissor_Main|Scissor_TopAction
+  - first:
+      74: -3343583036723955418
+    second: Scissor_Main|Scissor_TopAction.001
+  - first:
+      74: -1093442887581385061
+    second: Scissor_Main|Scissor_TopAction.002
+  - first:
+      74: 4938958686324618462
+    second: Scissor_Main|Scissor_TopAction.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scissor_1
+    second: {fileID: 2100000, guid: 51f5c3b9a583bb848885c25d4c1d979c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scissor_2
+    second: {fileID: 2100000, guid: ee7d4176951f290409a0b3669bd853ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tailor_Machine_1
+    second: {fileID: 2100000, guid: b36d21f461119f34086c5538f109dfdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tailor_Machine_2
+    second: {fileID: 2100000, guid: 8e68dbbd074bba2498fe62fffe782f39, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

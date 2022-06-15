@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: d4be4c871755a0247b31ae5c7623f2c1
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beyaz_Cikolata
+    second: {fileID: 2100000, guid: c520317efdbbc6c4d82e941e964fafc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canopy_pink
+    second: {fileID: 2100000, guid: e2ed1fca71a0e824aac11731dc4b36c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canopy_yellow
+    second: {fileID: 2100000, guid: debe1979378a2a84a96ca8ae44512f2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cikolata_Kapisi
+    second: {fileID: 2100000, guid: 440f35e4f47bd7f488c7b535a72d0767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cikolata_Topu
+    second: {fileID: 2100000, guid: 87969364034451a4cad6eb99ca51636c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cikolata_Zemin
+    second: {fileID: 2100000, guid: 67952689a2428d949a803807cfebf6a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cikolatali_Cake
+    second: {fileID: 2100000, guid: cdcff02e49dd8f14fbb7d729e40ff142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cream
+    second: {fileID: 2100000, guid: 4e0d7109e2168d9439314cbf23a887c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cream.003
+    second: {fileID: 2100000, guid: 6fe3fd696cbc09c4d8b11e5979839700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Degistir_Ciko
+    second: {fileID: 2100000, guid: 9042b6c160761a444b75cebbd0519d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Degistir_Cilek
+    second: {fileID: 2100000, guid: b955a0f980d986746968cd71b8f93c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engel_Kirmizisi
+    second: {fileID: 2100000, guid: 98b895ce0823f434b8e3715fe8b42b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Finish_
+    second: {fileID: 2100000, guid: 386031324f8404c41a49a2686472108d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Free
+    second: {fileID: 2100000, guid: 5586a7dd5385a9749808a942cff8dd77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Free_Kasa
+    second: {fileID: 2100000, guid: 1a5915a321ff5a349b50104cd7239ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 440dfb3cbab8b82408f191bb13a5fa9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ice_cream_cup_1
+    second: {fileID: 2100000, guid: 04167d3d1eeb52b4aaea0b7b6ac2d0dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ice_cream_cup_2.002
+    second: {fileID: 2100000, guid: 2747ad7358fa72d4693ffcfdc1d977bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kahve
+    second: {fileID: 2100000, guid: 56cd270e8663299408d22625541d4fd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kizak
+    second: {fileID: 2100000, guid: be1d70178f63fc443b214c0130e8245e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Krema_Makinesi
+    second: {fileID: 2100000, guid: 6687c34a5ac576e498ba8dc5ad61230d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meyve_Kapisi
+    second: {fileID: 2100000, guid: 0fcfe13728e832d49a4e1345a5345004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meyve_Zemin
+    second: {fileID: 2100000, guid: 2f98ca5d40100e947bb258a5aaaaf6f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meyveli_Cake
+    second: {fileID: 2100000, guid: 8c65d2d1a95063a43bd0784a34218cac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 5a9782c14f2844b48a4da839e7eb908a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platform_Renk1
+    second: {fileID: 2100000, guid: f9357a04ab23a724f9336ce8ddb1b8aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platform_Renk2
+    second: {fileID: 2100000, guid: fead7da8a39fe70409eb620b67c52c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platform_Renk3
+    second: {fileID: 2100000, guid: 7ea90e11f6fca484faa10d0b33a43a50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rulo
+    second: {fileID: 2100000, guid: d73cc8450368e0344bf79be6898ebdd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sell
+    second: {fileID: 2100000, guid: ab4b8cc37f65b1346ae9463090cf1caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sell_Kapisi
+    second: {fileID: 2100000, guid: 6b6d2f68d8a5a2e4bafd2e0427ca418f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sell_Kasa
+    second: {fileID: 2100000, guid: a3c3f11360066aa4ba44ef04dbfd227c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sell_Koyu
+    second: {fileID: 2100000, guid: 047cdbff1e47bdb41b9c48e9ec483508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sugarcube_Corner.003
+    second: {fileID: 2100000, guid: 1fa2d93745202f14eab8145f7e458455, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tabela_2
+    second: {fileID: 2100000, guid: 31b3a4a6f766d1a438cf364ef84358c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tabela_Ciko
+    second: {fileID: 2100000, guid: 3bed2394611511142a967757e809c63f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tabela_Cilek
+    second: {fileID: 2100000, guid: ab6ff89dbdc2ba04db003b864bb72c9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Violet
+    second: {fileID: 2100000, guid: 5a611311009521a4eb43cb792970e826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 50b421321b848cd40a2faead63dd0664, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

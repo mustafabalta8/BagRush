@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b61993ad5c2b1da4b96e0ae9e62d98ec, type: 3}
+  m_Name: Level 6
+  m_EditorClassIdentifier: 
+  collectibleBagPositions:
+  - {x: 4, y: 0, z: 20}
+  - {x: -5, y: 0, z: 22}
+  - {x: 2, y: 0, z: 44}
+  - {x: 4, y: 0, z: 32}
+  - {x: -3, y: 0, z: 28}
+  - {x: 1, y: 0, z: 25}
+  - {x: 0, y: 0, z: 47}
+  - {x: -3, y: 0, z: 40}
+  otherObjectsPositions: []
+  interactiveObjectsSet: {fileID: 7824727601940381481, guid: 1c55d73f918742f4380729f76893f8cd, type: 3}
