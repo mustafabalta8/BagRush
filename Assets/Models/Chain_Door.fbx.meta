@@ -3,7 +3,32 @@ guid: 9bc51c17ad8a12744a4f3ae90bc427e7
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chain_Door_1
+    second: {fileID: 2100000, guid: 1a06c5b1003a6fe4fbbd0b90188b58b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chain_Door_2
+    second: {fileID: 2100000, guid: 63edbf49c873b7341aa7c63851ecb85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Golden
+    second: {fileID: 2100000, guid: 25f786884c7c6c94298fc7e4a059b3a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metalic
+    second: {fileID: 2100000, guid: 0fe3d615a4146c74baa09718129e5ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tabela
+    second: {fileID: 2100000, guid: e382ac77406962d47b6913c480f6369e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

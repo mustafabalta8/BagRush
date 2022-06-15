@@ -10,6 +10,7 @@ Material:
   m_Name: Transperent_Kapi 3
   m_Shader: {fileID: 4800000, guid: 881c73b45dda42d4ba29f8c7742329be, type: 3}
   m_ValidKeywords:
+  - _MK_EMISSION_DEFAULT
   - _MK_LIGHTMODEL_LAMBERT
   - _MK_LIGHTTYPE_CEL_SHADE_SIMPLE
   - _MK_MODE_TRANSPARENT
@@ -165,10 +166,10 @@ Material:
     - _UseTranslucent: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.033018887, g: 1, b: 0, a: 0.24705882}
+    - _Color: {r: 0.22352941, g: 0.8, b: 0.5647059, a: 0.24705882}
     - _DetailColor: {r: 1, g: 1, b: 1, a: 1}
     - _DissolveColor: {r: 1, g: 1, b: 1, a: 0.5}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 1, b: 0.36204123, a: 1}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
