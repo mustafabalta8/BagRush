@@ -28,7 +28,7 @@ public class StackController : MonoBehaviour
     private void Update()
     {
         // Simple fix for the child-parent-parent position relationship.
-        transform.localPosition = new Vector3(_playerTransform.position.x * -1, 0, 0);
+        transform.localPosition = new Vector3(_playerTransform.position.x * -1, 0, 0);      
     }
 
     private void FixedUpdate()
@@ -66,7 +66,7 @@ public class StackController : MonoBehaviour
     {
         if (isPickedUp)
         {
-            print("node added to the stack");
+            //print("node added to the stack");
             _stack.Add(node);
             node.SetParent(_stackParent);
         }
@@ -74,7 +74,7 @@ public class StackController : MonoBehaviour
         {
             _stack.Remove(node);
             node.SetParent(_pickUpParent);
-            print("node removed from the stack");
+            //print("node removed from the stack");
         }
     }
     public void ClearStack()

@@ -15,12 +15,12 @@ public class MoneyManager : MonoBehaviour
         //UI_Manager.instance.ShowScoreAtWinWindow(score, totalScore01);
 
         PlayerPrefs.SetInt(totalMoney, total + money);
-        print("total:" +  (money+total));
+        //print("total:" +  (money+total));
     }
     public static void ChangeMoney(int amount, Vector3 position)
     {
         money += amount;
-        print("money:" + money);
+        //print("money:" + money);
         UIManager.instance.ShowMoneyChangeInGame(money,amount, position);
 
     }

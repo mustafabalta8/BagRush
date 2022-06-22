@@ -21,16 +21,22 @@ public class Player : MonoBehaviour
         if (other.tag == "Finish" && PlayerMovement.GameState == Screens.InGame)
         {
             //PlayerMovement.IsPlaying = false;
-            PlayerMovement.GameState = Screens.Success;
-            UIManager.instance.OpenSuccessScreen();
-            StackController.instance.ClearStack();
-            LevelManager.instance.UpdateLevel();
-            LevelManager.instance.CreateNextLevel();
+            HandleWinning();
 
         }
 
 
     }
+
+    public static void HandleWinning()
+    {
+        PlayerMovement.GameState = Screens.Success;
+        UIManager.instance.OpenSuccessScreen();
+        StackController.instance.ClearStack();
+        LevelManager.instance.UpdateLevel();
+        LevelManager.instance.CreateNextLevel();
+    }
+
     private void PickUpBag(Collider other)
     {
         //eðer bag'i topladýðýmýzý kontrol etmezsem ayný bag iki defa bu triggera düþüyor ve stackte bir boþluk oluyor. tam player box collider'ýn olduðu yerde

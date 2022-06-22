@@ -14,6 +14,8 @@ public class LevelManager : MonoBehaviour
     [SerializeField] private Level[] levels;
 
     [SerializeField] private TextMeshProUGUI levelText;
+
+    [SerializeField] private GainMultiplier[] gainMultipliers;
     
     public static int LevelInfo { get => levelInfo; set => levelInfo = value; }
 
@@ -46,6 +48,10 @@ public class LevelManager : MonoBehaviour
     {
         ObjectPooler.instance.DeactivateAllPools();
         CreateLevel(LevelInfo);
+        foreach(var item in gainMultipliers)
+        {
+            item.gameObject.SetActive(true);
+        }
         //PlayerMovement.GameState = Screens.InGame;
         
     }
